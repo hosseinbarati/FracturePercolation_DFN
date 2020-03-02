@@ -1,0 +1,6 @@
+﻿  CPU_SOLVER.cpp
+  global.cpp
+  GPU_SOLVER.cpp
+  main.cpp
+  Generating Code...
+  Percolation1.vcxproj -> E:\GitHub\FracturePercolationDFN\x64\Debug\main.exe

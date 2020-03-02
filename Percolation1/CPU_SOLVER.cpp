@@ -1,0 +1,12 @@
+#include "CPU_SOLVER.h"
+
+
+
+CPU_SOLVER::CPU_SOLVER()
+{
+}
+
+
+CPU_SOLVER::~CPU_SOLVER()
+{
+}

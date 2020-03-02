@@ -1,0 +1,14 @@
+﻿  CPU_SOLVER.cpp
+  global.cpp
+  GPU_SOLVER.cpp
+  main.cpp
+e:\new folder\percolation1\eigen\src\core\functors\nullaryfunctors.h(66): error C2760: syntax error: unexpected token 'constant', expected 'declaration'
+  e:\new folder\percolation1\eigen\src\core\functors\nullaryfunctors.h(66): note: This diagnostic occurred in the compiler generated function 'const Packet Eigen::internal::linspaced_op_impl<Scalar,Packet,false>::packetOp(IndexType) const'
+  e:\new folder\percolation1\eigen\src\core\functors\nullaryfunctors.h(87): note: see reference to class template instantiation 'Eigen::internal::linspaced_op_impl<Scalar,Packet,false>' being compiled
+e:\new folder\percolation1\eigen\src\core\products\triangularmatrixvector.h(57): error C2760: syntax error: unexpected token 'constant', expected ';'
+e:\new folder\percolation1\eigen\src\core\products\triangularmatrixvector.h(128): error C2760: syntax error: unexpected token 'constant', expected ';'
+e:\new folder\percolation1\eigen\src\core\products\triangularsolvervector.h(50): error C2760: syntax error: unexpected token 'constant', expected ';'
+  e:\new folder\percolation1\eigen\src\core\products\triangularsolvervector.h(85): note: see reference to class template instantiation 'Eigen::internal::triangular_solve_vector<LhsScalar,RhsScalar,Index,1,Mode,Conjugate,1>' being compiled
+e:\new folder\percolation1\eigen\src\core\products\triangularsolvervector.h(106): error C2760: syntax error: unexpected token 'constant', expected ';'
+  e:\new folder\percolation1\eigen\src\core\products\triangularsolvervector.h(139): note: see reference to class template instantiation 'Eigen::internal::triangular_solve_vector<LhsScalar,RhsScalar,Index,1,Mode,Conjugate,0>' being compiled
+  Generating Code...

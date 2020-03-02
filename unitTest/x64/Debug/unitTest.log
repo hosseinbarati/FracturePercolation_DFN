@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  unittest1.cpp
+d:\percolation1_12.06.2019\unittest\unittest1.cpp(83): warning C4101: 'str1': unreferenced local variable
+d:\percolation1_12.06.2019\unittest\unittest1.cpp(167): warning C4101: 'str1': unreferenced local variable
+d:\percolation1_12.06.2019\unittest\unittest1.cpp(252): warning C4101: 'str1': unreferenced local variable
+d:\percolation1_12.06.2019\unittest\unittest1.cpp(336): warning C4101: 'str1': unreferenced local variable
+d:\percolation1_12.06.2019\unittest\unittest1.cpp(420): warning C4101: 'str1': unreferenced local variable
+d:\percolation1_12.06.2019\unittest\unittest1.cpp(504): warning C4101: 'str1': unreferenced local variable
+d:\percolation1_12.06.2019\unittest\unittest1.cpp(589): warning C4101: 'str1': unreferenced local variable
+d:\percolation1_12.06.2019\unittest\unittest1.cpp(679): warning C4101: 'str1': unreferenced local variable
+d:\percolation1_12.06.2019\unittest\unittest1.cpp(770): warning C4101: 'str1': unreferenced local variable
+d:\percolation1_12.06.2019\unittest\unittest1.cpp(860): warning C4101: 'str1': unreferenced local variable
+d:\percolation1_12.06.2019\unittest\unittest1.cpp(951): warning C4101: 'str1': unreferenced local variable
+     Creating library D:\Percolation1_12.06.2019\x64\Debug\unitTest.lib and object D:\Percolation1_12.06.2019\x64\Debug\unitTest.exp
+  unitTest.vcxproj -> D:\Percolation1_12.06.2019\x64\Debug\unitTest.dll

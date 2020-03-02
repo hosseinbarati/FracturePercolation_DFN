@@ -1,0 +1,10 @@
+﻿  fracture2D.cpp
+e:\github\fracturepercolationdfn\percolation\fracture2d.cpp(25): warning C4101: 'str1': unreferenced local variable
+e:\github\fracturepercolationdfn\percolation\fracture2d.cpp(159): warning C4101: 'i': unreferenced local variable
+e:\github\fracturepercolationdfn\percolation\fracture2d.cpp(917): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+e:\github\fracturepercolationdfn\percolation\fracture2d.cpp(1985): warning C4101: 'i': unreferenced local variable
+  percolation.vcxproj -> E:\GitHub\FracturePercolationDFN\x64\Debug\percolation.lib
