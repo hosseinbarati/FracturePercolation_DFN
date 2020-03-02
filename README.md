@@ -1,0 +1,2 @@
+# FracturePercolation_DFN
+ This code calculate random fracture networks parameter like permeability and connected fraction. To run the code, cut the Data folder in your computer drive D or change the address for reading data and saving the results in the main.cpp. Date file includes center position of the fracture and its orientation. This code can save the results of the backbone and connected fraction in order to plot them. To do this you must uncomment this section in the code and change the adress to save it. Also, you can use the R code to generate random fractures.
